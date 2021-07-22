@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617988118 source:c:\users\gerencia\desktop\lista de exercícios – alocação dinâmica – vetor\calculadora comições delta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
